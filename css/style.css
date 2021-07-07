@@ -106,3 +106,23 @@ header {
     height: 100%;
     font-size: 25px;
 }
+
+.secao-seehow {
+    background-color: #393B47;
+    color: white;    
+}
+
+.secao-seehow h2 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: lighter;
+}
+
+.conteudo-seehow {
+    display: flex;
+    justify-content: space-between;
+}
+
+.esquerda {
+    width: 40%;
+}
