@@ -226,3 +226,18 @@ header {
     background-color: #7a3229;
     cursor: pointer;
 }
+
+footer {
+    height: 60px;
+}
+
+.container-footer {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-footer span {
+    font-size: 12px;
+}
